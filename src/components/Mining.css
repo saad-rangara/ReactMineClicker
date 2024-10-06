@@ -1,0 +1,35 @@
+.mines-counter {
+    background: #f7efef;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+
+.mines-counter .mines-value {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f7931a;
+}
+
+.mines-value {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+button img {
+    transition: transform 0.1s ease;
+}
+
+button img:hover {
+    transform: scale(1.1);
+}
+
+button img:active {
+    transform: scale(0.9);
+}
