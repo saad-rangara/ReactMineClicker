@@ -1,5 +1,4 @@
 CLIENT LINK!!!! ======>>>>>>> https://reactmineclicker.onrender.com
-2
 
 User Stories
 🐿️ As a developer, I want the application to use the useState hook so that the user’s interactions with the app are smooth and their data is managed effectively.
