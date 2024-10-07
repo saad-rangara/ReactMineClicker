@@ -1,6 +1,5 @@
 CLIENT LINK!!!! ======>>>>>>> https://reactmineclicker.onrender.com
 
-
 User Stories
 🐿️ As a developer, I want the application to use the useState hook so that the user’s interactions with the app are smooth and their data is managed effectively.
 🐿️ As a developer, I want to use the useEffect hook to manage game time with setInterval, return a cleanup function, and use a dependency array so that the game runs efficiently and updates in real-time for the user.
